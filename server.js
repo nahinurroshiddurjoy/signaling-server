@@ -1,5 +1,5 @@
 // ============================================================================
-// MeetPro: WebSocket Signaling Server
+// corcod: WebSocket Signaling Server
 // Real-time WebRTC coordination, chat relay, and presence management
 // ============================================================================
 
