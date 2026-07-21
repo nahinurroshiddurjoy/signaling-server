@@ -1,0 +1,15 @@
+{
+  "name": "meetpro-signaling-server",
+  "version": "1.0.0",
+  "description": "MeetPro WebSocket Signaling Server for real-time WebRTC coordination",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0",
+    "cors": "^2.8.5"
+  }
+}
